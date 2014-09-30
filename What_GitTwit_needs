@@ -1,0 +1,9 @@
+What does git twit need to work?
+Hourly updates as Twitter limits me to 350 Tweets an hour
+
+So every hour call a rufus event where gittwit will gather all of the git
+data it can and then compile its messages.
+
+Alternatively, we could just have GitTwit be the live stream feed as well using
+sockets
+(Look into easy WebSockets in Sinatra I know its a bitch in Rails)

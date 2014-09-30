@@ -1,0 +1,32 @@
+To Do List
+0. Make Lisa an account
+1. Lisa needs Quickbooks
+2. Server Access
+3. Calendar Access
+4. Fix Slow Calendar-Event creation in Outlook
+5. Add her to Dropbox and make sure she can print
+
+Done List
+0, 2, 3, 4
+
+Dads and Assistant win7 can talk to Ubuntu Server. There are Shortcuts called share(WRAServer) in the Favorites
+Maybe add one to the desktop? there is one
+
+
+Make it possible for Dad and Lisa to share calendars
+Attempt1: Google Calendar
+Wasn't possible as Google Calendar Sync stopped support july 2012 and closed down the service aug 2014.
+There are alternatives to sync Gmail Calendar with Outlook but they are Third Party Solutions
+
+Attempt2: iCloud Calendar
+Works, iCloud calendar provides a similar service as gmail for the iphone, mac and general cloud.
+Outlook on windows has a tool to sync with outlook and works just fine. It will require Lisa to
+use an icloud account we give her or one of her own. We can give her permission to view and edit
+but not invite any new members to the calendar.
+
+Attempt3: Sync over LAN
+
+She can Print just fine
+Dropbox she will have to sign in with her dropbox account i believe
+
+108 Riverside 
